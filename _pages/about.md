@@ -1,7 +1,7 @@
-
+---
 title: "About"
 permalink: /about/
-
+---
 
 I am an IT professional
 
