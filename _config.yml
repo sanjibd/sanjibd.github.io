@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sanjib's Blog"
+title                    : "Welcome to my Blog"
 title_separator          : "-"
 name                     : "Sanjib Dutta"
-description              : "Sanjib's Blog"
+description              : "Software Engineer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Sanjib Dutta"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sanjib's Blog"
-  location         : "Kolkata,India"
+  bio              : "IT Professional"
+  location         : "Kolkata, India"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:sanjibkr@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/sanjibd/sanjibd.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: https://github.com/sanjibd/sanjibd.github.io
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
