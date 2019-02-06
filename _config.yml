@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Sanjib Dutta"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bird.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT Professional"
   location         : "Kolkata, India"
   email            :
