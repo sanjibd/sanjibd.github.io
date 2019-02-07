@@ -4,10 +4,7 @@ permalink: /machine-learning/
 title: "Machine Learning"
 author_profile: false
 header:
-  image: "/images/machine-learning.jpg"
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"  
+  image: "/images/machine-learning.jpg" 
 sidebar:
     nav: "docs"  
 ---
