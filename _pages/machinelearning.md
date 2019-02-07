@@ -5,6 +5,9 @@ title: "Machine Learning"
 author_profile: true
 header:
   image: "/images/machine-learning.jpg"
+
+ sidebar:
+    nav: "docs"  
 ---
 
 
