@@ -2,11 +2,10 @@
 layout: posts
 permalink: /machine-learning/
 title: "Machine Learning"
-author_profile: true
+author_profile: false
 header:
   image: "/images/machine-learning.jpg"
-
- sidebar:
+sidebar:
     nav: "docs"  
 ---
 
