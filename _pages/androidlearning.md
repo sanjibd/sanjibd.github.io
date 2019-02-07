@@ -17,7 +17,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    url: "/myfirstarticle/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
@@ -25,7 +25,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    url: "/myfirstarticle/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
