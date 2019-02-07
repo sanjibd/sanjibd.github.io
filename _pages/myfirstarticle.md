@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 permalink: /myfirstarticle/
 title: "My First Article"
 author_profile: false
