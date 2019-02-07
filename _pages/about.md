@@ -1,8 +1,9 @@
 ---
+layout: single
 title: "About"
 permalink: /about/
 header:
-    image: "/images/home.jpeg"
+    image: "/images/bg-header.jpg"
 ---
 
 # H1 heading
