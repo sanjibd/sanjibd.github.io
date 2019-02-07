@@ -17,13 +17,13 @@ docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
-        url: /about/
+        url: /myfirstarticle/
       - title: "Structure"
-        url: /about/
+        url: /abmyfirstarticleout/
       - title: "Installation"
-        url: /about/
+        url: /myfirstarticle/
       - title: "Upgrading"
-        url: /about/
+        url: /myfirstarticle/
 
   - title: Customization
     children:
