@@ -27,5 +27,4 @@ docs:
       - title: "Overriding Theme Defaults"
        # url: /docs/overriding-theme-defaults/
      
-sidebar:
-  nav: "docs"  
+ 
