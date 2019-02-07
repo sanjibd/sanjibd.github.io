@@ -5,6 +5,9 @@ title: "Machine Learning"
 author_profile: false
 header:
   image: "/images/machine-learning.jpg"
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"  
 sidebar:
     nav: "docs"  
 ---
